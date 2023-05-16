@@ -22,6 +22,9 @@ THEN I can save my initials and score
 
 ![Alt text](/images/Code%20Quiz.png)
 
+* URL of deployed application
+https://aaronmko.github.io/code-quiz/
+
 ## Submission
 You are required to submit BOTH of the following for review:
 * The URL of the functional, deployed application.
